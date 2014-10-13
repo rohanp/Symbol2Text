@@ -5,6 +5,8 @@ Converts symbols (eg. ¡™£¢∞œ∑´®†¥) to the respective characters (
 
 
 usage: python decoder.py \<symbol> \<symbol> \<symbol> \<symbol> ...
+
 example:
+
     python decoder.py † ˙ ˆ ß ˆ ß å ß ´ ç ® ´ † ¬ å ˜ © ¨ å © ´
     thisisasecretlanguage
